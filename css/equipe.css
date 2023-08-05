@@ -1,0 +1,17 @@
+.Equipe-nome { 
+    text-decoration:none; 
+    text-align:center;
+    color: #2bbdce; 
+    font-size: 1em; 
+    font-family:'open_sansbold';
+    width:100%;
+    float:left;
+}
+
+.Equipe { 
+    text-decoration:none; 
+    text-align:center;
+    color: #4d4d4d; 
+    font-size: .9em; 
+    font-family:'open_sansbold';
+}
